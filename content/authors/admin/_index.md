@@ -30,9 +30,9 @@ organizations:
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
-  # - icon: at-symbol
-    # url: 'mailto:your-email@example.com'
-    # label: E-mail Me
+  - icon: at-symbol
+    url: 'mailto: xueyanhu1231@gmail.com'
+    label: E-mail Me
   # - icon: brands/x
     # url: https://twitter.com/GetResearchDev
   - icon: brands/instagram
@@ -80,7 +80,7 @@ work:
     company_url: ''
     company_logo: ''
     date_start: 2023-06-01
-    date_end: 2023-06-09
+    date_end: 2023-09-01
     summary: |2-
       Responsibilities include:
       - Developed a report-driven stock-selection strategy based on research of financial analysts on the Chinese stock market; reduced the turnover ratio from 18.46 to 12.84 by adding a component adjustment mechanism of market indexes; achieved an excess return of 38.32% and an Information Ratio (IR) of 4.00; implemented with Python
@@ -127,7 +127,7 @@ skills:
     color_border: '#f0bf23'
     items:
       - name: Marathon
-        description: 'Beijing Three Peaks Mountain Marathon, 21km (2020); Beijing Three Peaks Mountain Marathon, 21km (2021); Beijing Three Peaks Mountain Marathon, 21km (2024); Jingxi Ancient Road Mountain Marathon, 10km (2024)'
+        description: Beijing Three Peaks Mountain Marathon, 21km (2020); Beijing Three Peaks Mountain Marathon, 21km (2021); Beijing Three Peaks Mountain Marathon, 21km (2024); Jingxi Ancient Road Mountain Marathon, 10km (2024)
         percent: 100
         icon: person-simple-walk
       - name: Clarinet

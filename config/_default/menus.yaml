@@ -28,6 +28,9 @@ main:
   - name: Awards & Scholarships
     url: awards/
     weight: 30
+  - name: Research
+    url: research/
+    weight: 35
   - name: Projects
     url: projects/
     weight: 40
