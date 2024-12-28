@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Calculus | Hugo Academic CV Theme</title>
+    <link>http://localhost:1313/tags/calculus/</link>
+      <atom:link href="http://localhost:1313/tags/calculus/index.xml" rel="self" type="application/rss+xml" />
+    <description>Calculus</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Feb 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <title>Calculus</title>
+      <link>http://localhost:1313/tags/calculus/</link>
+    </image>
+    
+    <item>
+      <title>Advanced Mathematics II</title>
+      <link>http://localhost:1313/teaching/advanced-mathematics-ii/</link>
+      <pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/teaching/advanced-mathematics-ii/</guid>
+      <description>&lt;p&gt;Main content:&lt;/p&gt;
+&lt;p&gt;Multivariable function differential calculus and its applications (partial derivatives, directional derivatives, total differentials, gradients, geometric applications of multivariable differential calculus), multivariable function integral calculus and its applications (double integrals, triple integrals, first-type line and surface integrals, second-type line and surface integrals, integrals with parameters), infinite series (constant term series, function term series, power series, Fourier series), and ordinary differential equations.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

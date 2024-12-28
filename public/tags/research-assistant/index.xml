@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Research Assistant | Hugo Academic CV Theme</title>
+    <link>http://localhost:1313/tags/research-assistant/</link>
+      <atom:link href="http://localhost:1313/tags/research-assistant/index.xml" rel="self" type="application/rss+xml" />
+    <description>Research Assistant</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <title>Research Assistant</title>
+      <link>http://localhost:1313/tags/research-assistant/</link>
+    </image>
+    
+    <item>
+      <title>Textual Analysis Chinese Fund Annual Report</title>
+      <link>http://localhost:1313/project/textual-analysis-chinese-fund-annual-report/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/textual-analysis-chinese-fund-annual-report/</guid>
+      <description>&lt;p&gt;Research project led by Feifei Zhu, CUFE.&lt;/p&gt;
+&lt;p&gt;Glance of duty:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Crawled the periodic reports of fund, extracted and prepared the text with Python&lt;/li&gt;
+&lt;li&gt;Computed related sentiment indexes and analyzed&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

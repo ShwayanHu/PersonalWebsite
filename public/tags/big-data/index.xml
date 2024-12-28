@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Big Data | Hugo Academic CV Theme</title>
+    <link>http://localhost:1313/tags/big-data/</link>
+      <atom:link href="http://localhost:1313/tags/big-data/index.xml" rel="self" type="application/rss+xml" />
+    <description>Big Data</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 May 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <title>Big Data</title>
+      <link>http://localhost:1313/tags/big-data/</link>
+    </image>
+    
+    <item>
+      <title>Big Data Analysis of Taobao Shopping Record</title>
+      <link>http://localhost:1313/project/big-data-analysis-of-taobao-shopping-record/</link>
+      <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/big-data-analysis-of-taobao-shopping-record/</guid>
+      <description>&lt;p&gt;A final project of Course: Cloud Computing and Big Data Technology.&lt;/p&gt;
+&lt;p&gt;Glance of Duty:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Prepared data with Hive; transferred data between Hive and MySQL with Sqoop; operated under Linux&lt;/li&gt;
+&lt;li&gt;Constructed the Logistic Regression Model and the Decision Tree Model to predict returned customers with an accuracy of 58%; implemented with Spark; visualized result with Tableau and Matplotlib&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
